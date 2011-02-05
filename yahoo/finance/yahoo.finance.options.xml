@@ -8,7 +8,7 @@
             Yahoo Finance Quotes - Options Chain
         </description>
         <sampleQuery>
-            SELECT * FROM {table} WHERE symbol='GOOG' AND expiration='2010-06'
+            SELECT * FROM {table} WHERE symbol='GOOG' AND expiration='2011-06'
         </sampleQuery>
     </meta>
     <bindings>
